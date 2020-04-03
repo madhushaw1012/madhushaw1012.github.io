@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-04-03T21:20:12+05:30</updated><id>/feed.xml</id><title type="html">Madhu Shaw</title><subtitle>If Content is King, Design is Queen, then Development is the Kingdom. Without Kingdom, King and Queen are nothing! And I can help build your Empire!</subtitle><author><name>Madhu Shaw</name><email>madhushaw101999@gmail.com</email></author><entry><title type="html">My Blog</title><link href="/blog/new/" rel="alternate" type="text/html" title="My Blog" /><published>2020-04-02T09:19:47+05:30</published><updated>2020-04-02T09:19:47+05:30</updated><id>/blog/new-test-blog</id><content type="html" xml:base="/blog/new/">&lt;p&gt;First Test Blog.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/image1.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Heres the Content&lt;/p&gt;</content><author><name>Madhu Shaw</name></author><category term="test" /><category term="first" /><summary type="html">First Test Blog.</summary></entry></feed>
